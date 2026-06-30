@@ -134,7 +134,7 @@ Please see the technical report for more details.
 ## Citing this work
 ```
 @inproceedings{li2025questbench,
-  title={QuestBench: Can LLMs ask the right question to acquire information in reasoning tasks?},
+  title={{QuestBench}: Can LLMs ask the right question to acquire information in reasoning tasks?},
   author={Li, Belinda Z and Kim, Been and Wang, Zi},
   booktitle={Advances in Neural Information Processing Systems (NeurIPS)},
   year={2025}
